@@ -1,0 +1,67 @@
+@media (min-width:350px) and (max-width:575px) {
+    .nav-img{
+        height: 50px;
+    }
+    #banner {
+        background: var(--primary);
+        padding-top: 93px;
+        padding-bottom: 135px;
+    }
+    .banner-header{
+     max-width: 350px;
+    }
+    .banner_text_area h1 {
+        font-size: 42px;
+        font-weight: 800;
+        line-height: 61px;
+        max-width: 330px;
+    }
+    .banner_text_area p {
+        width: 333px;
+    }
+    .banner-img-area img{
+        width: 200px;
+        padding-top: 40px;
+    }
+    .tittle {
+        text-align: left;
+    }
+    .tittle__peragraph {
+        width: 312px;
+        margin: 0;
+    }
+    .serviceitemwrapper {
+        width: 100vw;
+    }
+    .members {
+        width: 100vw;
+    }
+    .customer-title-heading  h2 {
+        width: 361px;
+        font-size: 40px;
+    }
+    .customer-title-pera p {
+        width: 316px;
+        margin-top: 20px;
+    }
+    .customer-row{
+        width: 100vw;
+        gap: 20px;
+    }
+    .customer-row img {
+        width: 100%;
+    }
+    .member_row{
+     row-gap:20px;
+    }
+    .members {
+        max-width: 330px;
+    }
+    .customer_header{
+        max-width: 330px;
+    }
+    .newsinput{
+        max-width: 100px;
+    }
+
+    }
